@@ -19,5 +19,3 @@ This repository contains materials for the tutorial on opinion summarization, pr
 
 
 The videos will be available **soon**.
-
-For questions, please reach me abrazinskas (at) google.com
